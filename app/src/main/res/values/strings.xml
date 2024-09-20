@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Unit Convert</string>
+    <string name="unit">Unit</string>
+    <string name="converter">Converter</string>
+    <string name="weight_converter">Weight Converter</string>
+    <string name="length_converter">Length Converter</string>
+    <string name="centimeter"><![CDATA[Centimeter >]]></string>
+    <string name="inch"><![CDATA[Inch >]]></string>
+
+    <string-array name="weight_array">
+        <item>Kilogram</item>
+        <item>Gram</item>
+        <item>Milligram</item>
+        <item>Pound</item>
+        <item>Carat</item>
+    </string-array>
+
+        <string-array name="length_array">
+            <item>Kilometer</item>
+            <item>Meter</item>
+            <item>Centimeter</item>
+            <item>Inch</item>
+            <item>Foot</item>
+            <item>Yard</item>
+
+        </string-array>
+
+</resources>
