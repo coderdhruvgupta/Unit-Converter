@@ -13,4 +13,4 @@ Edge-to-Edge Design: Modern layout utilizing Android's Edge-to-Edge feature for 
 ![Screenshot_20240920-131929](https://github.com/user-attachments/assets/1c0ae85e-7ec4-4aae-b195-f87e66f6ef4e)
 ![Screenshot_20240920-131923](https://github.com/user-attachments/assets/0918dafd-2d64-4b20-947d-0635b8e75092)
 ![Screenshot_20240920-131912](https://github.com/user-attachments/assets/0197c39c-ad05-48e7-824e-9cc9e6608742)
-![Screenshot_20240920-131905](https://github.com/user-attachments/assets/931ea28a-b626-40e8-a72a-5b6eca5fadcb)
+!![Screenshot_20240920-131905](https://github.com/user-attachments/assets/931ea28a-b626-40e8-a72a-5b6eca5fadcb)
