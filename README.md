@@ -1,6 +1,9 @@
 
 # Unit Converter App
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8f3ae499-040a-4034-a4b9-c210d53cfcf3"  alt="Image 1">
+</p>
 The Unit Converter is a lightweight Android application designed to simplify the process of converting various units of measurement. Built using Android's modern architecture, this app allows users to easily convert weights between multiple units, including kilograms, grams, pounds, and carats.
 
 
