@@ -18,6 +18,9 @@ The Unit Converter is a lightweight Android application designed to simplify the
 ![Screenshot_20240920-131923](https://github.com/user-attachments/assets/0918dafd-2d64-4b20-947d-0635b8e75092)
 ![Screenshot_20240920-131912](https://github.com/user-attachments/assets/0197c39c-ad05-48e7-824e-9cc9e6608742)
 ![Screenshot_20240920-131905](https://github.com/user-attachments/assets/931ea28a-b626-40e8-a72a-5b6eca5fadcb)
+
+<p float="left"> <img src="https://github.com/user-attachments/assets/79ce7142-2c32-4be8-a750-ca7e4f100e4a" width="200"> <img src="https://github.com/user-attachments/assets/1c0ae85e-7ec4-4aae-b195-f87e66f6ef4e" width="200"> <img src="https://github.com/user-attachments/assets/0918dafd-2d64-4b20-947d-0635b8e75092" width="200"> <img src="https://github.com/user-attachments/assets/0197c39c-ad05-48e7-824e-9cc9e6608742" width="200"> <img src="https://github.com/user-attachments/assets/931ea28a-b626-40e8-a72a-5b6eca5fadcb" width="200"> </p>
+
 ## Tech Stack
 
 **Language:** Java
