@@ -37,7 +37,7 @@ The Unit Converter is a lightweight Android application designed to simplify the
 - Build and run the app on your android device.
     
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/coderdhruv)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]("www.linkedin.com/in/coderdhruv")
 
 
 ## Feedback
